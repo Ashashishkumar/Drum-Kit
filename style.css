@@ -1,0 +1,82 @@
+.w {
+background-image: url("images/crash.png");
+padding: 50px 50px;
+border-radius: 50px ;
+background-size: 40px;
+font-size: 60px;
+font-family: 'Lobster', cursive;
+color: red;
+text-shadow: rgb(61, 60, 60);
+
+}
+.a {
+    background-image: url("images/kick.png");
+    padding: 50px 50px;
+    border-radius: 50px ;
+    background-size: 40px;
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    color: red;
+    }
+.s {
+        background-image: url("images/snare.png");
+        padding: 50px 50px;
+        border-radius: 50px ;
+        background-size: 40px;
+        font-size: 60px;
+        font-family: 'Lobster', cursive;
+        color: red;
+        }
+.d {
+            background-image: url("images/tom1.png");
+            padding: 50px 50px;
+            border-radius: 50px ;
+            background-size: 40px;
+            font-size: 60px;
+            font-family: 'Lobster', cursive;
+            color: red;
+            }
+.j {
+                background-image: url("images/tom2.png");
+                padding: 50px 50px;
+                border-radius: 50px ;
+                background-size: 40px;
+                font-size: 60px;
+                font-family: 'Lobster', cursive;
+                color: red;
+                }           
+ .k {
+                    background-image: url("images/tom3.png");
+                    padding: 50px 50px;
+                    border-radius: 50px ;
+                    background-size: 40px;
+                    font-size: 60px;
+                    font-family: 'Lobster', cursive;
+                    color: red;
+                    } 
+ .l {
+                        background-image: url("images/tom4.png");
+                        padding: 50px 50px;
+                        border-radius: 50px ;
+                        background-size: 40px;
+                        font-size: 60px;
+                        font-family: 'Lobster', cursive;
+                        color: red;
+                        }                                 
+ body{
+    background-color: rgb(61, 60, 60);
+}
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: red;
+    font-family: 'Lobster', cursive;
+}
+.kit{
+    margin:10%;
+    display: inline-block;
+    margin-left: 25%;
+}
+.drum{
+    display: inline-block;
+}
